@@ -1,0 +1,17 @@
+# Needed libraries
+
+     pip install opencv-python mediapipe numpy
+
+#Cmd Run the path of the file located
+
+    cd path/projrct folder
+
+#Run the programe 
+
+   python curl_counter.py
+
+
+
+    
+   
+
